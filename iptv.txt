@@ -9,12 +9,10 @@
 汕头经济生活ᴴᴰ,http://113.103.253.43:2000/rtp/239.253.43.46:5146
 汕头一套,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8
 汕头二台,http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
-汕头三套,http://221.5.12.130:2223/hls/62/index.m3u8
+汕头三台,http://221.5.12.130:2223/hls/62/index.m3u8
+汕头三台,http://183.239.193.55:2223/hls/62/index.m3u8
 星空1,http://182.149.172.176:9100/udp/239.93.0.156:2193
-星空2,http://182.138.161.36:8889/udp/239.93.0.156:2193
-星空3,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/84167277
-星空4,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
-星空5,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 
 
 
