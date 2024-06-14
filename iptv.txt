@@ -14,12 +14,14 @@
 汕头文旅体育,http://113.103.253.43:2000/rtp/239.253.43.44:5146
 汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
 汕头经济生活ᴴᴰ,http://113.103.253.43:2000/rtp/239.253.43.46:5146
-汕头一套,http://tkhz.vip/gd.php?id=shantouyitaogaoqing_1500
-汕头二套,http://tkhz.vip/gd.php?id=shantouertaogaoqing_1500
-汕头三套,http://tkhz.vip/gd.php?id=shantousantaogaoqing_1500
-汕头一套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouyitaogaoqing_4500
-汕头二套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouertaogaoqing_4500
-汕头三套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantousantaogaoqing_4500
+汕头一套,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8
+汕头二套,http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
+汕头三套,http://221.5.12.130:2223/hls/62/index.m3u8
+星空，http://182.149.172.176:9100/udp/239.93.0.156:2193
+星空，http://182.138.161.36:8889/udp/239.93.0.156:2193
+星空，http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/84167277
+星空，http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+星空，http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 
 
 
