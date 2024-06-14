@@ -48,5 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 链接分享
 iptv搜索   https://zyscj.com/zy/video/tv.html#电视直播网站  http://tonkiang.us/ \
-工具库分享爱达杂货铺    https://adzhp.site/?ref=www.widiz.com    https://linkqiu.com/ \
-菜鸟工具   https://www.jyshare.com/ 
+工具库分享爱达杂货铺    https://adzhp.site/?ref=www.widiz.com    https://linkqiu.com/  https://zypuu.com/t/gongju \
+菜鸟工具   https://www.jyshare.com/ \
+肥羊直播/点播工具集合 https://tools.v1.mk/ \
+直播源 http://michael007js.cn/news/news.php?class2=184 \
