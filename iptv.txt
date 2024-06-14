@@ -13,6 +13,7 @@
 汕头三台,http://183.239.193.55:2223/hls/62/index.m3u8
 星空1,http://182.149.172.176:9100/udp/239.93.0.156:2193
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
 
 
 
