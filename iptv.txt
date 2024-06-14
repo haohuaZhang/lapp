@@ -1,13 +1,6 @@
 🇨🇳丨汕头频道,#genre#
 汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/500/n2sgK4X.m3u8
 汕头经济,http://fdkj.net:9901/tsfile/live/1016_1.m3u8
-汕头综合,http://player.200877926.top/169l/0/tide/tidem3u8.php?
-汕头综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
-汕头综合,http://113.103.253.43:2000/rtp/239.253.43.30:5146
-汕头综合,http://hktv.ga/grtn/61.m3u8
-汕头综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
-汕头综合ᴴᴰ,http://113.103.253.43:2000/rtp/239.77.1.130:5146
-汕头综合ᴴᴰ,http://113.103.253.43:2000/rtp/239.253.43.45:5146
 汕头联通-汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
 汕头文旅体育ᴴᴰ,http://113.103.253.43:2000/rtp/239.77.1.132:5146
 汕头文旅体育标清,http://211.97.63.3:801/hls/39/index.m3u8
@@ -15,19 +8,14 @@
 汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
 汕头经济生活ᴴᴰ,http://113.103.253.43:2000/rtp/239.253.43.46:5146
 汕头一套,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8
-汕头二套,http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
+汕头二台,http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
 汕头三套,http://221.5.12.130:2223/hls/62/index.m3u8
-汕头一套HD,http://27.36.62.163:9090/live/shantouyitaogaoqing_4500.m3u8?ci=123&srchost=172.16.149.181:8060
-汕头二套HD,http://27.36.62.163:9090/live/shantouertaogaoqing_4500.m3u8?ci=123&srchost=172.16.149.181:8060
-汕头三套HD,http://27.36.62.163:9090/live/shantousantaogaoqing_4500.m3u8?ci=123&srchost=172.16.149.181:8060
 星空1,http://182.149.172.176:9100/udp/239.93.0.156:2193
 星空2,http://182.138.161.36:8889/udp/239.93.0.156:2193
 星空3,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/84167277
 星空4,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 星空5,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-汕头一套,http://27.36.62.163:9090/live/shantouyitaogaoqing_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-汕头二套,http://27.36.62.163:9090/live/shantouertaogaoqing_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-汕头三套,http://27.36.62.163:9090/live/shantousantaogaoqing_1500.m3u8?ci=123&srchost=172.16.149.181:8060
+
 
 
 
