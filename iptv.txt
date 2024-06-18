@@ -15,9 +15,9 @@
 湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
 
 🇨🇳丨港澳台频道,#genre#
-翡翠(普通话),
-翡翠1(粤语),
-翡翠2(粤语),
+翡翠(普通话),https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠1(粤语),https://live.astradamy.com/tvbfc/index.m3u8
+翡翠2(粤语),https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠,http://49.234.31.101:7004udp://@224.9.2.10:5000
 明珠,http://49.234.31.101:7004udp://@224.9.2.100:5000
 翡翠台(第1声道繁体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade.m3u8
