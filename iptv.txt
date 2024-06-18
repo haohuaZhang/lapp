@@ -14,6 +14,23 @@
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
 
+🇨🇳丨港澳台频道,#genre#
+翡翠(普通话),
+翡翠1(粤语),
+翡翠2(粤语),
+翡翠,http://49.234.31.101:7004udp://@224.9.2.10:5000
+明珠,http://49.234.31.101:7004udp://@224.9.2.100:5000
+翡翠台(第1声道繁体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(第2声道简体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(粤语繁体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(普通话简体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jadenhk2.m3u8
+明珠台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台(第2声道), http://67.211.73.118:9901http://iptv.tvfix.org/hls/pearl2.m3u8
+ViuTV,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV(第2声道),http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv2.m3u8
+ViuTV6, http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
+
+
 🇨🇳丨广东直播源,#genre#
 广东卫视,http://120.87.4.70/PLTV/88888894/224/3221225519/index.m3u8#http://hktv.ga/migu/608831231.m3u8
 深圳卫视,http://120.87.4.70/PLTV/88888894/224/3221225521/index.m3u8#http://chinanet.live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_MH_keyM_H_/live/program/live/szwshd/4000000/mnf.m3u8#http://hktv.ga/migu/608782582.m3u8       
