@@ -20,7 +20,8 @@
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
 凤凰香港,http://113.64.145.34:8081/hls/38/index.m3u8
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+1翡翠台4k,https://stream.freetv.fun/eff0e65cf1d5f9cbab20efff8f4e1902f630de10c34b404f94ed544ad523639f.m3u8
+2翡翠台4k,https://stream.freetv.fun/tvbfei-cui-tai-1.m3u8
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
