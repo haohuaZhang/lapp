@@ -24,6 +24,8 @@
 翡翠7,http://dadiao.akjp.cn:1936/0.m3u8
 翡翠8,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 翡翠9,http://r.jdshipin.com/62WM7
+翡翠(普通话),https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠1(粤语),https://live.astradamy.com/tvbfc/index.m3u8
 翡翠a,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡翠s,http://www.namewee.xyz/gudou.php?id=1350
 翡翠d,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
@@ -33,8 +35,6 @@
 翡翠j,http://r.jdshipin.com/n90gt
 翡翠k,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
 翡翠l,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
-翡翠(普通话),https://cdn.hklive.tv/xxxx/81/index.m3u8
-翡翠1(粤语),https://live.astradamy.com/tvbfc/index.m3u8
 翡翠2(粤语),https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠,http://49.234.31.101:7004udp://@224.9.2.10:5000
 明珠,http://49.234.31.101:7004udp://@224.9.2.100:5000
